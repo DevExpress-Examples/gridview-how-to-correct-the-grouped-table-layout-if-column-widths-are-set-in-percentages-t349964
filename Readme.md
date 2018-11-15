@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [GridViewColumnHelper.cs](./CS/Helpers/GridViewColumnHelper.cs) (VB: [GridViewColumnHelper.vb](./VB/Helpers/GridViewColumnHelper.vb))
+* **[GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)**
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # GridView - How to correct the grouped table layout if column widths are set in percentages
 
 
