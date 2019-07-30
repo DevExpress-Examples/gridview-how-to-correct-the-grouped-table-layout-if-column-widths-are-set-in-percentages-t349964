@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # GridView - How to correct the grouped table layout if column widths are set in percentages
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t349964)**
+**[[Run Online]](https://codecentral.devexpress.com/t349964/)**
 <!-- run online end -->
 
 
